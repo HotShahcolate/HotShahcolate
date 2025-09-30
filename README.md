@@ -3,6 +3,7 @@
 I'm Shah! I'm currently a graduate student at Georgia Tech studying Computer Science. Previously, I was a Technology Consultant at EY.
 
 I love mobile app development (check out Bubble in my repos!) and software engineering in general.
+
 [<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/e8f00d02-d177-4c9d-9350-74e2a837e0fd" />](test.com)
 
 <!--
