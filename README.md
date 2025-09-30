@@ -4,7 +4,7 @@ I'm Shah! I'm currently a graduate student at Georgia Tech studying Computer Sci
 
 I love mobile app development (check out Bubble in my repos!) and software engineering in general.
 
-[<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/e8f00d02-d177-4c9d-9350-74e2a837e0fd" />](https://www.youtube.com/watch?v=MeQAFFoiqcA)
+[<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/e8f00d02-d177-4c9d-9350-74e2a837e0fd" />](https://www.linkedin.com/in/shahjmirza/)
 
 <!--
 **HotShahcolate/HotShahcolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
