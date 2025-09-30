@@ -4,8 +4,6 @@ I'm Shah! I'm currently a graduate student at Georgia Tech studying Computer Sci
 
 I love mobile app development (check out Bubble in my repos!) and software engineering in general.
 
-[test](test.com)
-
 <!--
 **HotShahcolate/HotShahcolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
